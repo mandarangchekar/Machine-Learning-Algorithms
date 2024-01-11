@@ -1,7 +1,7 @@
 
 
 ## Overview
-This repository contains code, reports, datasets, and outputs for homework assignments (HW) from HW01 to HW08. The code for HW01 to HW05 is written in Julia, while Python is used for HW06 to HW08. Each assignment focuses on different algorithms and data manipulation tasks.
+This repository contains materials for the course CIS 662: Introduction to Machine Learning and Algorithms at Syracuse University. It includes homework assignments, datasets, code, and reports for HW01 to HW08. The assignments are designed to provide practical experience with various machine learning algorithms and data processing techniques. Specifically, the code for HW01 to HW05 is written in Julia, while Python is used for HW06 to HW08. Each homework focuses on different aspects of machine learning and algorithms, emphasizing both theoretical understanding and practical application.
 
 ## Assignments Description and Summary
 
